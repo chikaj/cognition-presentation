@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2560"
+   height="1440"
+   viewBox="0 0 2560 1440"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="hle.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.56273915"
+     inkscape:cx="1363.8646"
+     inkscape:cy="737.46424"
+     inkscape:window-width="2528"
+     inkscape:window-height="1369"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:133.333px;writing-mode:lr-tb;direction:ltr;fill:#004af6"
+       x="564.26849"
+       y="755.33331"
+       id="text1"
+       inkscape:export-filename="hle.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="564.26849"
+         y="755.33331"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.333px;font-family:C059;-inkscape-font-specification:C059">Humanity's Last Exam</tspan></text>
+    <path
+       style="fill:none;stroke:#004af6;stroke-width:16.679;stroke-dasharray:none;stroke-opacity:1;stroke-linecap:round"
+       d="m 551.14071,465.94282 c -83.37229,11.63808 -79.25514,56.25072 -84.40157,91.16496 -5.14644,34.91425 10.29286,117.35066 -24.70291,131.89826 -34.99577,14.5476 -76.16727,15.51744 -76.16727,15.51744 0,0 64.84512,4.8492 80.28443,23.27616 15.43931,18.42697 1.9998,107.99877 21.61503,154.2046 16.4686,38.79356 78.22585,41.7031 78.22585,41.7031"
+       id="path1"
+       sodipodi:nodetypes="csscssc" />
+    <path
+       style="fill:none;stroke:#004af6;stroke-width:16.679;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1990.2649,465.94282 c 83.3723,11.63808 79.2551,56.25072 84.4015,91.16496 5.1465,34.91425 -10.2928,117.35066 24.703,131.89826 34.9957,14.5476 76.1672,15.51744 76.1672,15.51744 0,0 -64.8451,4.8492 -80.2844,23.27616 -15.4393,18.42697 -1.9998,107.99877 -21.615,154.2046 -16.4686,38.79356 -78.2259,41.7031 -78.2259,41.7031"
+       id="path2"
+       sodipodi:nodetypes="csscssc" />
+  </g>
+</svg>

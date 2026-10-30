@@ -1,0 +1,180 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.25.1",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "1d0db38904205bec4d6f6f6a1f6cec3e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "9eeb24280730fc4b97f6d9fca7200655",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "HNGU",
+      "code_hash": "4ec5751b9d3981d38b2d83d50e8d2b96",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "sRyK",
+      "code_hash": "15279253666a373c78739cb8573f2ef6",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "mnXW",
+      "code_hash": "751b40c9f4d8ccb60046bef2195e7853",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<iframe src='https://lastexam.ai' width='100%' height='900px' onload='__resizeIframe(this)' frameborder='0'></iframe>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "jRBi",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "foRk",
+      "code_hash": "918d4b6880782dd63050dfaebabc9305",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "XAYe",
+      "code_hash": "ebbd098ecda6e797b14670492014bbc9",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "eagc",
+      "code_hash": "0cf3ca68681f7fbbcf44f4812bdbf546",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "da95af4a1625a416d4931a227b2a1c59",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "PKri",
+      "code_hash": "491912f4ce8eeec1ccfe139349cecb7f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Xref",
+      "code_hash": "3150962de244c9d6e581affd14e4e1bd",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: row;justify-content: flex-start;align-items: center;flex-wrap: nowrap;gap: 0.5rem'>\n    <div style=\"position: relative; display: inline-block;\">\n    <img src=\"https://via.placeholder.com/400x300\" style=\"display: block; max-width: 100%; height: auto;\">\n    <div style=\"\n        position: absolute;\n        top: 50px;\n        left: 50px;\n        width: 100px;\n        height: 60px;\n        background-color: white;\n        border: 1px solid #eee;\n        box-shadow: 2px 2px 5px rgba(0,0,0,0.1);\n        border-radius: 4px;\n    \"></div>\n</div>\n<span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"slide-title\">Slide Title</h3>\n<span class=\"paragraph\">Your text goes here. Since this is in a <code>mo.md</code> element, you have full access to markdown features:</span>\n<ul>\n<li><strong>Bold</strong> and <em>italic</em> text</li>\n<li>Bullett Points</li>\n<li><a href=\"https://marimo.io\" rel=\"noopener noreferrer\" target=\"_blank\">Links</a></li>\n</ul></span></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "SFPL",
+      "code_hash": "92d7f3156bfc859686a23ac4dd360876",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: center;align-items: center;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"attention-and-cognition\">Attention and Cognition</h1></span><span class=\"markdown prose dark:prose-invert contents\"><h4 id=\"geographic-learning-and-thought\">Geographic Learning and Thought</h4></span></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "BYtC",
+      "code_hash": "6eeef37d674e1f1c8fbfdf39179ca453",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "RGSE",
+      "code_hash": "1385b392a56cfb2f0a50c3c05bbada48",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: center;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"attention\">Attention</h1></span><div style='display: flex;flex: 1;flex-direction: row;justify-content: flex-end;align-items: center;flex-wrap: nowrap;gap: 2rem'><div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"attention-is-a-state-in-which-cognitive-resources-are-focused-on-certain-aspects-of-the-environment-rather-than-on-others-and-the-central-nervous-system-is-in-a-state-of-readiness-to-respond-to-stimuli\">Attention is \u2018a state in which cognitive resources are focused on certain aspects of the environment rather than on others and the central nervous system is in a state of readiness to respond to stimuli\u2019.</h3></span><span class=\"markdown prose dark:prose-invert contents\"><h4 id=\"-american-psychological-association-2020\">--American Psychological Association, 2020</h4></span></div><span class=\"markdown prose dark:prose-invert contents\"><ul>\n<li>Voluntary attention, arising from conscious participation</li>\n<li>Involuntary attention that is captured by environmental stimuli</li>\n</ul></span></div></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Kclp",
+      "code_hash": "55c6620c79e2bd006fa328fa8403b17b",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>&#x27; ().&#x27;</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "emfo",
+      "code_hash": "1c94714a3a3378eaaca0116d2a3c91e0",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "Hstk",
+      "code_hash": "352bdac55ff04c2564aedd6367029da2",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}
